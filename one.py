@@ -1,3 +1,4 @@
+#coding=utf-8
 # Python爬虫: 抓取One网页上的每日一话和图
 # http://www.jianshu.com/p/c4f35dfe1a1f
 import argparse
